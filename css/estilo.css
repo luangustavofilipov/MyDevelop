@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+div#form{
+	margin: 13% auto;
+	background: blue;
+	height: 170px;
+	width: 270px;
+}
+
+form#logar{
+	margin: 10px;
+}
+
+form#logar h1{
+	font-size: 18pt;
+	font-family: Arial;
+	text-align: center;
+	color: #fff;
+}
+
+form#logar input{
+	height: 20px;
+	display: block;
+	width: 230px;
+	border-radius: 20px;
+	border: 1px solid black;
+	margin: 10px 0;
+	padding: 3px 7.3px;
+	outline: none;
+}
